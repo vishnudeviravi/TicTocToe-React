@@ -1,0 +1,12 @@
+.BoardColumn {
+    width:58px;
+    height:30px;
+    padding: 20px 10px;
+    font-size:30px;
+    color:#e84118;
+    text-align:center;
+    float:left;
+    margin:5px 5px;
+    border:1px solid #e84118;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

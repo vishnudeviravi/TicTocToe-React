@@ -1,0 +1,17 @@
+.fullBoard {
+    margin: 100px auto;
+    width: 270px;
+}
+button {
+    margin:10px auto;
+    width:100%;
+    padding:10px 0px;
+    font-size:20px;
+    border:none;
+    color:#ffffff;
+    background-color:#e84118;
+}
+
+button:hover {
+    background-color:#44bd32;
+}

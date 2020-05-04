@@ -1,0 +1,11 @@
+.winner {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.winner h1 {
+    text-align:center;
+    color:#4cd137;
+}
+
+.winner span {
+    color:#fbc531;
+}
