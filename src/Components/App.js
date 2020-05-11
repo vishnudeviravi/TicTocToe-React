@@ -17,7 +17,7 @@ class App extends Component {
     onColumnClick = (key) => {
         const { result, winner, flag } = this.state;
         let stateArray = [...result]
-        if (stateArray[key] !== ('X' && 'O')) {
+        if (stateArray[key] !== 'X' && stateArray[key] !==  'O') {
             if((!winner && !flag)){
                 stateArray[key] = 'X';
                 this.setState({result:stateArray});
